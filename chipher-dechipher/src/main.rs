@@ -14,3 +14,4 @@ fn main() {                           //This is the main function
     else {
         println!("You entered the wrong mode")
     }
+}
